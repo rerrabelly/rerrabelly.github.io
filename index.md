@@ -4,7 +4,7 @@ Application Security engineer and leader with 10 years of experience. Highly ski
 Interested In..
 Security Architecture, Authentication, Authorization
 
-# Header2 **SKILLS and Tools**
+# **SKILLS and Tools**
  Skills – Application Security penetration testing, security code reviews, Architecture reviews
  DAST Tools – Netsparker, Burp Suite Professional, HCL Appscan, and OWASP ZAP
  SAST Tools – Checkmarx, HP Fortify, and Veracode.
@@ -17,9 +17,9 @@ Operating Systems – Windows, Ubuntu, Macintosh, Kali
 Version Control – Bitbucket and GitHub
 Others – Basics of Network Administration, CISCO switches and router configuration, VLAN setups, Access Data Forensic Tool Kit (FTK), Facebook Capture the Flag (FBCTF), Packet Tracer, Oracle, MYSQL, HTTP, TCP/IP, etc.
 
-#Header2 **Job History**
+#**Job History**
 
-Publications
+#**Publications**
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
