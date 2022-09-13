@@ -1,14 +1,25 @@
 ## Ranadheer Errabelly
-You can use the [editor on GitHub](https://github.com/rerrabelly/rerrabelly.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-
 Application Security engineer and leader with 10 years of experience. Highly skilled in security architecture reviews, manual penetration testing, dynamic, static, interactive application security-testing tools and techniques. Experienced in designing and implementation of the various application security practices and DevSecOps.
 
 Interested In..
 Security Architecture, Authentication, Authorization
 
-#Header2
-Job History
+# Header2 **SKILLS and Tools**
+ Skills – Application Security penetration testing, security code reviews, Architecture reviews
+ DAST Tools – Netsparker, Burp Suite Professional, HCL Appscan, and OWASP ZAP
+ SAST Tools – Checkmarx, HP Fortify, and Veracode.
+ IAST Tools – Contrast Assess
+ Cloud Infrastructures – Amazon Web Services (AWS)
+ Security Tools – Blackduck, Metasploit, Wireshark, Nmap, SQLmap, Splunk, etc.
+ Programming Languages – JAVA, C#, Python, iOS Swift
+ Web Development – HTML, JavaScript, CSS, Bootstrap, and SQL.
+Operating Systems – Windows, Ubuntu, Macintosh, Kali
+Version Control – Bitbucket and GitHub
+Others – Basics of Network Administration, CISCO switches and router configuration, VLAN setups, Access Data Forensic Tool Kit (FTK), Facebook Capture the Flag (FBCTF), Packet Tracer, Oracle, MYSQL, HTTP, TCP/IP, etc.
+
+#Header2 **Job History**
+
+Publications
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
