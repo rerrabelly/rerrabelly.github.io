@@ -17,9 +17,9 @@ Operating Systems – Windows, Ubuntu, Macintosh, Kali
 Version Control – Bitbucket and GitHub
 Others – Basics of Network Administration, CISCO switches and router configuration, VLAN setups, Access Data Forensic Tool Kit (FTK), Facebook Capture the Flag (FBCTF), Packet Tracer, Oracle, MYSQL, HTTP, TCP/IP, etc.
 
-#**Job History**
+# **Job History**
 
-#**Publications**
+# **Publications**
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
